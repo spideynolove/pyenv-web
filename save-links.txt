@@ -7,4 +7,6 @@ Docstring:
 Not nested function anymore:
     https://github.com/micheles/decorator
     https://mathdatasimplified.com/2021/03/27/decorator-module-write-shorter-python-decorators-without-nested-functions/
-    
+
+Pip manual
+    https://note.nkmk.me/en/python-pip-list-freeze/

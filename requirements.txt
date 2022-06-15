@@ -89,6 +89,7 @@ dill==0.3.5.1
 distlib==0.3.4
 Django==3.2.13
 dnspython==2.2.1
+docopt==0.6.2
 docutils==0.18.1
 doubtlab==0.2.3
 email-validator==1.2.1
@@ -217,6 +218,7 @@ pickleshare==0.7.5
 Pillow==9.1.1
 pip-autoremove==0.10.0
 pipe==2.0
+pipreqs==0.4.11
 platformdirs==2.5.2
 plotly==5.5.0
 pluggy==1.0.0
@@ -340,5 +342,6 @@ whatlies==0.7.0
 widgetsnbextension==3.6.0
 wrapt==1.14.1
 WTForms==3.0.1
+yarg==0.1.9
 yarl==1.7.2
 zipp==3.8.0
